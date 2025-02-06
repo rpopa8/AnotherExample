@@ -22,6 +22,10 @@ public class HelloWorld {
 
 		System.out.println("I love programming in Java!");
 		
+		System.out.println("Hello! Just find time to work with GIT");
+		
+		System.out.println("How are you?");
+		
 	}
 	
 	
